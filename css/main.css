@@ -5,12 +5,14 @@ body {
 }
 
 h1 {
-    margin-top: 0;
+    font-size: 6rem;
+    margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
 }
 
 h3 {
@@ -24,17 +26,7 @@ h3 {
     padding-top: 100px;
 }
 
-.middle {
-    height: 200px;
-    width: 200px;
-    background-color: blue;
-}
 
-.bottom {
-    height: 200px;
-    width: 200px;
-    background-color: red;
-}
 
 .bottom-cloud {
     position: absolute;
